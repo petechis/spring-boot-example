@@ -1,4 +1,4 @@
-package es.rubenjgarcia.web;
+package es.chisamba.web;
 
 public class Response {
 

@@ -1,10 +1,10 @@
-package es.rubenjgarcia.test.cucumber;
+package es.chisamba.test.cucumber;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
-import es.rubenjgarcia.Application;
+import es.chisamba.Application;
 import org.junit.Assert;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

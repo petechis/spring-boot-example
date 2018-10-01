@@ -1,4 +1,4 @@
-package es.rubenjgarcia;
+package es.chisamba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

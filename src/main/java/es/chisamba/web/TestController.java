@@ -1,4 +1,4 @@
-package es.rubenjgarcia.web;
+package es.chisamba.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

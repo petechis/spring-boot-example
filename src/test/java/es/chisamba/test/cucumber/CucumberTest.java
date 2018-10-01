@@ -1,4 +1,4 @@
-package es.rubenjgarcia.test.cucumber;
+package es.chisamba.test.cucumber;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

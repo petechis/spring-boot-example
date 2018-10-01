@@ -1,6 +1,6 @@
-package es.rubenjgarcia.test;
+package es.chisamba.test;
 
-import es.rubenjgarcia.web.Response;
+import es.chisamba.web.Response;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
